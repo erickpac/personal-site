@@ -8,8 +8,9 @@ export type Colors = {
   subtleHover: string;
 };
 
-export type Person = {
+export type Coworker = {
   name: string;
+  profilePicture: string;
   role: string;
   company: string;
 };

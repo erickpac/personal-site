@@ -14,7 +14,7 @@ export const Footer = ({ colors }: FooterProps) => {
         <p className="mb-4 text-gray-600">
           Feel free to reach out for collaborations or just a friendly chat.
         </p>
-        {/* <Link href="mailto:john.doe@example.com"> */}
+        <a href="mailto:john.doe@example.com" />
         <Button
           className={`${colors.accent} ${colors.accentHover} text-white transition-all duration-300 hover:scale-105`}
         >
