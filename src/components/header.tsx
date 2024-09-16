@@ -7,9 +7,7 @@ type HeaderProps = {
 
 export const Header = ({ isLoaded, colors }: HeaderProps) => {
   return (
-    <header
-      className={`${colors.background} font-inter border-b border-gray-200`}
-    >
+    <header className={`${colors.background} border-b border-gray-200`}>
       <div className="container mx-auto px-4 py-6">
         <h1
           className={`text-3xl font-bold ${isLoaded ? "animate-fade-in" : "opacity-0"}`}
