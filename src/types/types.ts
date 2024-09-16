@@ -13,6 +13,7 @@ export type Coworker = {
   profilePicture: string;
   role: string;
   company: string;
+  linkedin: string;
 };
 
 export type Job = {
@@ -20,4 +21,9 @@ export type Job = {
   company: string;
   period: string;
   description: string;
+};
+
+export type Technology = {
+  name: string;
+  icon: string;
 };
