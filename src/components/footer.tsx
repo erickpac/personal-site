@@ -14,13 +14,14 @@ export const Footer = ({ colors }: FooterProps) => {
         <p className="mb-4 text-gray-600">
           Feel free to reach out for collaborations or just a friendly chat.
         </p>
-        <a href="mailto:erickj.pac@gmail.com" />
-        <Button
-          className={`${colors.accent} ${colors.accentHover} text-white transition-all duration-300 hover:scale-105`}
-        >
-          <Mail className="mr-2 h-4 w-4" />
-          Email Me
-        </Button>
+        <a href="mailto:erickj.pac@gmail.com">
+          <Button
+            className={`${colors.accent} ${colors.accentHover} text-white transition-all duration-300 hover:scale-105`}
+          >
+            <Mail className="mr-2 h-4 w-4" />
+            Email Me
+          </Button>
+        </a>
       </div>
     </footer>
   );
