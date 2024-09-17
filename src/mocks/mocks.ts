@@ -76,7 +76,7 @@ export const mockCoworkers: Coworker[] = [
     name: "Alex Mejicanos",
     profilePicture:
       "https://media.licdn.com/dms/image/v2/C5603AQHywXT-Y5Xrtw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1613235513565?e=1732147200&v=beta&t=UD7aHfA70LSJegIL0whN1d1eAFv5F8RqCPZxTpbS0jo",
-    role: "Sr Software Engineer | Cloud Developer | FullStack | Speaker",
+    role: "Sr Software Engineer | Cloud Developer | FullStack",
     company: "MangoChango",
     linkedin: "https://www.linkedin.com/in/alexmejicanos/",
   },
