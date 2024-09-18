@@ -45,7 +45,7 @@ export const Profile = ({ colors }: ProfileProps) => {
                   <Button
                     variant="outline"
                     size="icon"
-                    className={`${colors.subtle} ${colors.subtleHover} text-gray-700 transition-all duration-300 hover:scale-105`}
+                    className={`${colors.subtle} ${colors.subtleHover} transition-all duration-300 hover:scale-105`}
                   >
                     <Github className="h-5 w-5" />
                     <span className="sr-only">GitHub</span>
@@ -59,7 +59,7 @@ export const Profile = ({ colors }: ProfileProps) => {
                   <Button
                     variant="outline"
                     size="icon"
-                    className={`${colors.subtle} ${colors.subtleHover} text-gray-700 transition-all duration-300 hover:scale-105`}
+                    className={`${colors.subtle} ${colors.subtleHover} transition-all duration-300 hover:scale-105`}
                   >
                     <Linkedin className="h-5 w-5" />
                     <span className="sr-only">LinkedIn</span>

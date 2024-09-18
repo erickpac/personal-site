@@ -23,8 +23,8 @@ export const CoworkerCard = ({ colors, coworker }: PeopleCardProps) => {
 
         <div>
           <h3 className="font-semibold">{name}</h3>
-          <p className="text-sm text-gray-600">{role}</p>
-          <p className="text-sm text-gray-500">{company}</p>
+          <p className="text-sm">{role}</p>
+          <p className="text-sm">{company}</p>
         </div>
       </div>
     </a>
