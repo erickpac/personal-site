@@ -1,12 +1,12 @@
 import { useEffect, useState } from "react";
 import { colors } from "@/constants";
-import { mockJobs, mockCoworkers, mockTechnologies } from "@/mocks/mocks";
+import { mockJobs, mockCoworkers } from "@/mocks/mocks";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { CoworkerCard } from "./components/coworker-card";
 import { JobCard } from "./components/job-card";
-import { TechCard } from "./components/tech-card";
 import { Profile } from "@/components/profile";
+import { TechStack } from "@/components/tech-stack";
 
 function App() {
   const [isLoaded, setIsLoaded] = useState(false);
@@ -32,12 +32,7 @@ function App() {
           <section
             className={`mb-12 ${isLoaded ? "animate-fade-in animate-delay-3" : "opacity-0"}`}
           >
-            <h2 className="mb-4 text-3xl font-bold">Tech Stack</h2>
-            <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-6">
-              {mockTechnologies.map((tech, index) => (
-                <TechCard key={index} colors={colors} tech={tech} />
-              ))}
-            </div>
+            <TechStack />
           </section>
 
           <section

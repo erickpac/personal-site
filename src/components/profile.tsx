@@ -23,7 +23,7 @@ export const Profile = ({ colors }: ProfileProps) => {
 
             <div>
               <p className="mb-4">
-                Hi, I'm Erick Pac, highly skilled software engineer with over 8
+                Hi, I'm Erick, highly skilled software engineer with over 8
                 years of experience in developing and optimizing a wide range of
                 software applications. Recognized for being diligent, possessing
                 strong critical thinking abilities, and excelling in
