@@ -8,7 +8,7 @@ type FooterProps = {
 
 export const Footer = ({ colors }: FooterProps) => {
   return (
-    <footer className={`${colors.subtle} border-t`}>
+    <footer className="border-t">
       <div className="container mx-auto px-4 py-8">
         <h2 className="mb-4 text-2xl font-bold">Contact Me</h2>
         <p className="mb-4">
