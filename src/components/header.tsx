@@ -17,7 +17,8 @@ export const Header = ({ isLoaded, colors }: HeaderProps) => {
         <p
           className={`${colors.secondaryText} ${isLoaded ? "animate-fade-in animate-delay-1" : "opacity-0"}`}
         >
-          Software Engineer | iOS Developer | Web Developer (React, Node.js)
+          Software Engineer | iOS & React Native Developer | Web Developer
+          (React, Node.js)
         </p>
       </div>
     </header>

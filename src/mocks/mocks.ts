@@ -33,14 +33,6 @@ export const mockJobs: Job[] = [
 
 export const mockCoworkers: Coworker[] = [
   {
-    name: "Carl Edwards",
-    profilePicture:
-      "https://media.licdn.com/dms/image/v2/C4E03AQFYOu6IlZBUVQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1560461682257?e=1732147200&v=beta&t=xA_wECUjxIjIVEzN8H96lRC14gB7_kg2Xo3jRuof5TY",
-    role: "Director Of Technology",
-    company: "VML Apps",
-    linkedin: "https://www.linkedin.com/in/carledwards/",
-  },
-  {
     name: "Scott Mehus",
     profilePicture:
       "https://media.licdn.com/dms/image/v2/C5603AQH1jsPERUKCWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1642680466865?e=1732147200&v=beta&t=8NYgOy_vSxXGGwpTG3r-elWtPUn90pgMnphcQdudNns",
@@ -64,14 +56,14 @@ export const mockCoworkers: Coworker[] = [
     company: "Telus International Digital Solutions",
     linkedin: "https://www.linkedin.com/in/grajedapablo/",
   },
-  {
-    name: "Juan Rodríguez",
-    profilePicture:
-      "https://media.licdn.com/dms/image/v2/C4D03AQFxH0tNmYtVbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1551229812244?e=1732147200&v=beta&t=QyUMaVVPdaPybYoI4uo0qguyG_-e9Pg3YObTL5v-0Qw",
-    role: "Tech Lead | DevOps Specialist | Certified Scrum Master",
-    company: "Bantrab",
-    linkedin: "https://www.linkedin.com/in/jrodgt/",
-  },
+  // {
+  //   name: "Juan Rodríguez",
+  //   profilePicture:
+  //     "https://media.licdn.com/dms/image/v2/C4D03AQFxH0tNmYtVbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1551229812244?e=1732147200&v=beta&t=QyUMaVVPdaPybYoI4uo0qguyG_-e9Pg3YObTL5v-0Qw",
+  //   role: "Tech Lead | DevOps Specialist | Certified Scrum Master",
+  //   company: "Bantrab",
+  //   linkedin: "https://www.linkedin.com/in/jrodgt/",
+  // },
   {
     name: "Alex Mejicanos",
     profilePicture:
