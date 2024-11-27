@@ -35,7 +35,7 @@ export const mockCoworkers: Coworker[] = [
   {
     name: "Scott Mehus",
     profilePicture:
-      "https://media.licdn.com/dms/image/v2/C5603AQH1jsPERUKCWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1642680466865?e=1732147200&v=beta&t=8NYgOy_vSxXGGwpTG3r-elWtPUn90pgMnphcQdudNns",
+      "https://media.licdn.com/dms/image/v2/C5603AQH1jsPERUKCWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1642680466865?e=1738195200&v=beta&t=xNv3t3M5F11z2wcealI3DhGsyIuS2jWlbXBxTJk6TOw",
     role: "Senior iOS Developer",
     company: "VML Apps",
     linkedin: "https://www.linkedin.com/in/scott-mehus-4508a9122/",
@@ -43,7 +43,7 @@ export const mockCoworkers: Coworker[] = [
   {
     name: "Jimmy Morales",
     profilePicture:
-      "https://media.licdn.com/dms/image/v2/C4E03AQGFpvCbc2PfyQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1584638455829?e=1732147200&v=beta&t=jP46koK2-YxDE2-Mp8LTlLCyiRXF5kjnW4wJpHPsRAM",
+      "https://media.licdn.com/dms/image/v2/C4E03AQGFpvCbc2PfyQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1584638455829?e=1738195200&v=beta&t=sTK3P-3PuZjLwS-KgjxeUOHLjSfsz5H_h-5uXbQ77aI",
     role: "Senior Software Engineer",
     company: "Sky Peak Technologies",
     linkedin: "https://www.linkedin.com/in/jimmydev/",
@@ -51,7 +51,7 @@ export const mockCoworkers: Coworker[] = [
   {
     name: "Pablo Grajeda",
     profilePicture:
-      "https://media.licdn.com/dms/image/v2/C4E03AQHbh8fjxkSm4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1607634405885?e=1732147200&v=beta&t=tv3BrgVubJrAAy6040Js7xZs8PWepJ32dpcVY8o61WI",
+      "https://media.licdn.com/dms/image/v2/C4E03AQHbh8fjxkSm4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1607634405885?e=1738195200&v=beta&t=np-4GDN9L317ZevggmxHYl-ykcAZw6uxhO3tq6snQyE",
     role: "Sr. Full Stack Developer",
     company: "Telus International Digital Solutions",
     linkedin: "https://www.linkedin.com/in/grajedapablo/",
@@ -64,14 +64,14 @@ export const mockCoworkers: Coworker[] = [
   //   company: "Bantrab",
   //   linkedin: "https://www.linkedin.com/in/jrodgt/",
   // },
-  {
-    name: "Alex Mejicanos",
-    profilePicture:
-      "https://media.licdn.com/dms/image/v2/C5603AQHywXT-Y5Xrtw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1613235513565?e=1732147200&v=beta&t=UD7aHfA70LSJegIL0whN1d1eAFv5F8RqCPZxTpbS0jo",
-    role: "Sr Software Engineer | Cloud Developer | FullStack",
-    company: "MangoChango",
-    linkedin: "https://www.linkedin.com/in/alexmejicanos/",
-  },
+  // {
+  //   name: "Alex Mejicanos",
+  //   profilePicture:
+  //     "https://media.licdn.com/dms/image/v2/C5603AQHywXT-Y5Xrtw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1613235513565?e=1732147200&v=beta&t=UD7aHfA70LSJegIL0whN1d1eAFv5F8RqCPZxTpbS0jo",
+  //   role: "Sr Software Engineer | Cloud Developer | FullStack",
+  //   company: "MangoChango",
+  //   linkedin: "https://www.linkedin.com/in/alexmejicanos/",
+  // },
 ];
 
 export const mockTechnologies: Technology[] = [

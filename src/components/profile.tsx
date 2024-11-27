@@ -14,7 +14,7 @@ export const Profile = ({ colors }: ProfileProps) => {
         <div className="p-6">
           <div className="flex flex-col items-center gap-6 md:flex-row">
             <img
-              src="https://media.licdn.com/dms/image/v2/C5603AQGgHgXFXeev1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1658981393786?e=1732147200&v=beta&t=TNWeP17OT0vqMtZ72HYIorxtOd8MAHQKU5_8JttXLTA"
+              src="https://media.licdn.com/dms/image/v2/C5603AQGgHgXFXeev1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1658981393786?e=1738195200&v=beta&t=aicmBvmqDtycjE67eB26PqfQdJudugzUOwODqgY0a3Q"
               alt="Profile Picture"
               width={200}
               height={200}
